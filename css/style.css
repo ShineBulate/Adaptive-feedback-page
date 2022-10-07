@@ -4,6 +4,10 @@
     overflow-x: hidden;
     
 }
+body{
+    width:100%;
+    height:100%;
+}
 .wrapper{
     background-color: #F5F5F5;
     width:100%;
@@ -363,16 +367,105 @@ footer{
     display: flex;
     
 }
-@media screen and (max-width: 1020px) {
+.burger-btn{
+    visibility: hidden;
+}
+@media screen and (max-width: 768px) {
     .list-nav,.list-icons,.list-languages{
         flex-direction: column;
         text-align: center;
         align-items: center;
-        
+        visibility: hidden;
     }
+    .burger-btn{
+        visibility: visible;
+        width:40px;
+        height:40px;
+        background-color:#103178;
+        background-image: url("/Users/akikanee/Desktop/example/icons/burger-menu.png");
+        background-repeat: no-repeat;
+        margin-left: 10px;
+       
+    }
+    .main-menu,.user-cart{
+        visibility: hidden;
+    }
+    .article-1{
+        display: block;
+        overflow: hidden;
+        width:480px;
+        margin-left: 10px;
+    }
+    .article-2{
+        display: none;
+    }
+   .article-3{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 460px;
+    min-width: 420px;
+    height: auto;
+    margin-left: 20px;
+
+   }
+   .big-colored{
+    font-size:20pt;
+   }
+   input{
+    display: block;
+    min-width: 250px;
+    max-width: 380px;
+   }
+   textarea{
+    min-width: 250px;
+    max-width: 380px;
+   }
     .main_logo{
         flex-grow: 2;
     }
+ 
+    .bigmap{
+        max-width: 480px;
+        max-height: 280px;
+        overflow: hidden;
+
+    }
+    footer{
+        display: block;
+        height:auto;
+    }
+    .footer1{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        height:280px;
+        padding-left: 10px;
+    }
+
+
+    .footer2{
+        display: flex;
+        margin-left: -40px;
+        flex-direction: column;
+        align-items: flex-start;
+        height:auto;
+        line-height: 60px;
+
+    }
+    .footer2 p{
+        line-height: 50px;
+    }
+    .footer3{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding-left: 10px;
+        height: auto;
+
+    }
+ 
+
 
     
 }
