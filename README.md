@@ -20,11 +20,11 @@
 <h1>Footer</h1>
   <img src="https://github.com/ShineBulate/adaptive-design-without-Boostrap/assets/89338809/79ae2956-1927-4b6c-b857-f8641d00f6d6/">
 </div>
-<span>
- All remarks i you can send to my mail Shinohara43@icloud.com
+<pre style="forn-size:16pt;">
+  All remarks i you can send to my mail Shinohara43@icloud.com
   Thank you for watch!
   ここまで読んでくれてありがとうございました。
   もし質問あればメールを連絡してください
-</span>
+</pre>
 </div>
 </html>
