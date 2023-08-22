@@ -1,8 +1,10 @@
 <html>
   <header>
-    <span>Hello welcome to Adaptive-design-without-Bootstrap
-      
-</span>
+    <pre>
+      Hello welcome to Adaptive Desing page feedback page！
+      ここで来てありがとうございました。
+      これはフィードバックページです。
+</pre>
   </header>
 <div style="">
 <h1>Header</h1>
@@ -19,7 +21,10 @@
   <img src="https://github.com/ShineBulate/adaptive-design-without-Boostrap/assets/89338809/79ae2956-1927-4b6c-b857-f8641d00f6d6/">
 </div>
 <span>
+ All remarks i you can send to my mail Shinohara43@icloud.com
   Thank you for watch!
+  ここまで読んでくれてありがとうございました。
+  もし質問あればメールを連絡してください
 </span>
 </div>
 </html>
