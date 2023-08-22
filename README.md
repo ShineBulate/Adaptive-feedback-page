@@ -4,7 +4,7 @@
     <span>Hello welcome to Adaptive-design-without-Bootstrap
 </span>
   </header>
-<div style="border:1px solid black;">
+<div style="https://disk.yandex.ru/i/rxi-4EnJgZhG-g">
 <h1>Header</h1>
 <img src="">
 </div>
