@@ -1,20 +1,22 @@
-# adaptive-design-without-Boostrap
 <html>
   <header>
     <span>Hello welcome to Adaptive-design-without-Bootstrap
+      
 </span>
   </header>
 <div style="">
 <h1>Header</h1>
-<img src="[https://disk.yandex.ru/i/rxi-4EnJgZhG-g](https://1.downloader.disk.yandex.ru/preview/14ea08baa81eb86bd0fdeb333de584a9d88225f30317acbfa50813a19adb71d9/inf/qp2Q5ao1B7lONtQ5jQGMUE1X57XmgjeeIk0y9D4eSUbVOFcMslZTz-4j9U_7euNGtO98qqLd1SXSSM2HPHI0GQ%3D%3D?uid=1073822580&filename=Header.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1073822580&tknv=v2&size=1898x883)https://1.downloader.disk.yandex.ru/preview/14ea08baa81eb86bd0fdeb333de584a9d88225f30317acbfa50813a19adb71d9/inf/qp2Q5ao1B7lONtQ5jQGMUE1X57XmgjeeIk0y9D4eSUbVOFcMslZTz-4j9U_7euNGtO98qqLd1SXSSM2HPHI0GQ%3D%3D?uid=1073822580&filename=Header.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1073822580&tknv=v2&size=1898x883">
+<img src="https://github.com/ShineBulate/adaptive-design-without-Boostrap/assets/89338809/ec703ebb-d2ba-4814-9287-97aae0452a34/">
 </div>
 <div style="">
 <h1>Content</h1>
-  <img src="">
+  <img src="https://github.com/ShineBulate/adaptive-design-without-Boostrap/assets/89338809/09d26fc1-24d1-4366-bf6f-bd273288ee3b/">
+  <h1>Map</h1>
+  <img src="https://github.com/ShineBulate/adaptive-design-without-Boostrap/assets/89338809/c1bda8b1-7e8a-4a7a-b6a9-7efee679c0fe/">
 </div>
 <div style="">
 <h1>Footer</h1>
-  <img src="">
+  <img src="https://github.com/ShineBulate/adaptive-design-without-Boostrap/assets/89338809/79ae2956-1927-4b6c-b857-f8641d00f6d6/">
 </div>
 <span>
   Thank you for watch!
